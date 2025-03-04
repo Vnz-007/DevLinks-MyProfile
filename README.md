@@ -3,8 +3,8 @@
   
    ## Projeto Concluído - v.Desktop Night & Light:
 
-   ![Projeto DevLinks-DesktopNight](https://github.com/user-attachments/assets/dafae6bc-668f-4d93-a1ef-ce3841fb8932)
-   ![Projeto DevLinks-DesktopLight](https://github.com/user-attachments/assets/84640538-69e8-4ca4-9e50-f5c9df06daaf)
+  ![Projeto DevLinks-DesktopNight](https://github.com/user-attachments/assets/e352960f-b36c-4580-8f38-70d575831a11)
+  ![Projeto DevLinks-DesktopLight](https://github.com/user-attachments/assets/a20b43e0-3608-4123-b5f7-3da4d92c264f)
  
 </div>
 
@@ -12,8 +12,8 @@
   
    ## Projeto Concluído - v.Mobile Night & Light:
   
-   ![Projeto DevLinks-MobileLight](https://github.com/user-attachments/assets/cf45cd56-bced-44c8-bb06-705503fa6547)
-   ![Projeto DevLinks-MobileLight](https://github.com/user-attachments/assets/b163fe15-ca71-45b8-bbcf-79ef03ecfa26)
+  ![Projeto DevLinks-MobileNight](https://github.com/user-attachments/assets/18c281f8-4d33-495d-bbff-8ad2328214c6)
+  ![Projeto DevLinks-MobileLight](https://github.com/user-attachments/assets/660deb07-5330-468b-9c8f-46f06985e971)
 
 </div>
 
